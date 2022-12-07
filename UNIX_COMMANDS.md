@@ -1,6 +1,6 @@
-layout: page
-title: Unix commands
-permalink: /unix-commands
+layout: page </br>
+title: Unix commands </br>
+permalink: /unix-commands </br>
 
 # Unix commands
 ## brew
