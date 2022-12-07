@@ -1,7 +1,9 @@
+---
 layout: page </br>
 title: Unix commands </br>
 permalink: /unix-commands </br>
-
+nav_order: 2
+---
 # Unix commands
 ## brew
 ```
