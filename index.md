@@ -1,11 +1,8 @@
 ---
-title: Jerry GitHub page
 layout: default
+title: Jerry GitHub page
 nav_order: 1
 ---
+# Jerry GitHub page
 
-# pk1230h.github.io
-
-## Jerry GitHub page
-
-- [Unix commands](./list_unix_commad.md)
+- [Unix commands](./unix-commands)

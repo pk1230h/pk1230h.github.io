@@ -1,7 +1,7 @@
 ---
-layout: page </br>
-title: Unix commands </br>
-permalink: /unix-commands </br>
+layout: default
+title: Unix commands
+permalink: /unix-commands
 nav_order: 2
 ---
 # Unix commands
