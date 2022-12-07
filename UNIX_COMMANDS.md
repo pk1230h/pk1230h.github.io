@@ -1,4 +1,8 @@
-# List of commands
+layout: page
+title: Unix commands
+permalink: /unix-commands
+
+# Unix commands
 ## brew
 ```
 brew install --cask [CASK] # install the cask(application) and manage by homebrew
