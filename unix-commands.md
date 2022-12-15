@@ -49,3 +49,13 @@ touch ~/.hushlogin #hide terminal login time
 
 netstat -an | grep LISTEN  # check all port is listening
 ```
+
+## lint
+```
+yamllint
+```
+## format
+```
+shfmt
+shellcheck
+```
